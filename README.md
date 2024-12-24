@@ -28,5 +28,5 @@ The Retro Forum is an engaging platform where users can explore, discuss, and sh
 
 ![Preview Image](preview.png)
 
-[Click here to view the live website]()
+[Click here to view the live website](https://shahrukkabir.github.io/Scooby/)
 
